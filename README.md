@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LelonDelonMelon
+- 👋 Hi, I’m @LelonDelonMelon, CS student, Game Developer, Web3 enthusiast, beginner web developer
 - 👀 I’m interested in Web3.0 and Game Development
 - 🌱 I’m currently learning about decentralized finance applications on Ethereum blockchain and solidity
 - 💞️ I’m looking to collaborate on open source game projects (:
