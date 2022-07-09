@@ -27,7 +27,18 @@
 [github]:https://github.com/LelonDelonMelon
 
 [linkedin]: https://www.linkedin.com/in/burakkati/
+<br />
+<br />
 
+<details align="left">
+<summary>:bulb: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=lelondelonmelon&theme=radical" >
+</details>
+
+<details>
+<summary>:bulb:  Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelondelonmelon&layout=compact" >
+</details>
 
 
 <!---
