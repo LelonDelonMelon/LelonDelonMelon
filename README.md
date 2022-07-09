@@ -2,7 +2,7 @@
 
 ### 💻 Game Developer | Web3 Enthusiast | Beginner Web developer
 
-### 🤙 I'm interested in collaborating on #FF6464pen source game projects
+### 🤙 I'm interested in collaborating on open source game projects
 
 <font color="#FF6464"> Turning coffee into  `<code/>`. </font>
 
