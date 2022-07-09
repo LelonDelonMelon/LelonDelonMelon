@@ -1,4 +1,4 @@
-<img src ="https://tenor.com/view/gif-26167217">
+<img src ="[https://tenor.com/view/gif-26167217](https://media1.tenor.com/images/eb2f0f5a71c371fdb30f5a18fe529712/tenor.gif?itemid=26167217)">
 
 - 👋 Hi, I’m @LelonDelonMelon, CS student, Game Developer, Web3 enthusiast, beginner web developer
 - 👀 I’m interested in Web3.0 and Game Development
