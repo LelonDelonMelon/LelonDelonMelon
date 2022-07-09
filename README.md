@@ -1,11 +1,34 @@
-<img src ="https://media1.tenor.com/images/eb2f0f5a71c371fdb30f5a18fe529712/tenor.gif?itemid=26167217">
+<img src="https://media.tenor.com/images/d4a1cee181323ff8c652bfa9a4f9a1c5/tenor.gif" width="400" height="">
 
-- 👋 Hi, I’m @LelonDelonMelon, CS student, Game Developer, Web3 enthusiast, beginner web developer
-- 👀 I’m interested in Web3.0 and Game Development
-- 🌱 I’m currently learning about decentralized finance applications on Ethereum blockchain and solidity
-- 💞️ I’m looking to collaborate on open source game projects (:
-- 📫 How to reach me?
--    You can reach me via following links:
+### 💻 Game Developer | Web3 Enthusiast | Beginner Web developer
+
+### 🤙 I'm interested in collaborating on #FF6464pen source game projects
+
+<font color="#FF6464"> Turning coffee into  `<code/>`. </font>
+
+### Feel free to reach out!
+
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" align= "left" />][github]
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" align= "left" />][linkedin]
+<br />
+<br />
+
+### 💾 Technologies I've used
+<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="25" height="25" />
+
+[github]:https://github.com/LelonDelonMelon
+
+[linkedin]: https://www.linkedin.com/in/burakkati/
+
+
 
 <!---
 LelonDelonMelon/LelonDelonMelon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
