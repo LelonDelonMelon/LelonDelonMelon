@@ -1,3 +1,5 @@
+<img src ="https://tenor.com/view/gif-26167217">
+
 - 👋 Hi, I’m @LelonDelonMelon, CS student, Game Developer, Web3 enthusiast, beginner web developer
 - 👀 I’m interested in Web3.0 and Game Development
 - 🌱 I’m currently learning about decentralized finance applications on Ethereum blockchain and solidity
