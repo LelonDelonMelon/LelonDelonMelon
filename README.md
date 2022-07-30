@@ -1,6 +1,6 @@
 <img src="https://media.tenor.com/images/d4a1cee181323ff8c652bfa9a4f9a1c5/tenor.gif" width="400" height="">
 
-### 💻 Game Developer | Web3 Enthusiast | Beginner Web developer
+### 💻 Game Developer | Web3 Enthusiast | Beginner backend engineer
 
 ### 🤙 I'm interested in collaborating on open source game projects
 
