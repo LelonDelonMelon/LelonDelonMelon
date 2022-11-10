@@ -12,6 +12,7 @@
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" align= "left" />][github]
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" align= "left" />][linkedin]
+[<img height="32" width ="32" src="https://cdn.cdnlogo.com/logos/b/18/brackets.svg" allign ="left" />][portfolio]
 <br />
 <br />
 
@@ -28,7 +29,7 @@
 
 [linkedin]: https://www.linkedin.com/in/burakkati/
 
-[portfolio]:https://lelon-dev.vercel.app/
+[portfolio]: https://lelon-dev.vercel.app/
 
 
 <br />
