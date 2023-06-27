@@ -1,8 +1,8 @@
 <img src="https://media.tenor.com/images/d4a1cee181323ff8c652bfa9a4f9a1c5/tenor.gif" width="400" height="">
 
-### 💻 Game Developer | Web3 Enthusiast | Beginner backend engineer
+### 💻 Fullstack Developer | Web3 Enthusiast | Game Developer
 
-### 🤙 I'm interested in collaborating on open source game projects
+### 🤙 I'm interested in collaborating on open source projects
 
 <font color="#FF6464"> Turning coffee into  `<code/>`. </font>
 
