@@ -5,6 +5,7 @@
 ###
 
 <p align="left">💻 Fullstack Developer | Web3 Enthusiast | Game Developer<br>🤙 I'm interested in collaborating on open source projects</p>
+<font color="#FF6464"> Turning coffee into  `<code/>`. </font>
 
 ###
 
@@ -52,6 +53,7 @@
 
 ###
 
+### Feel free to reach out!
 <div align="left">
   <a href="https://www.linkedin.com/in/burakkati/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
