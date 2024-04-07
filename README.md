@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">💻 Fullstack Developer | Web3 Enthusiast | Game Developer<br>🤙 I'm interested in collaborating on open source projects</p>
+<p align="left">💻 Fullstack Developer | Game Developer<br>🤙 I'm interested in collaborating on open source projects</p>
 
 ### <font color="#FF6464"> Turning coffee into  `<code/>`. </font>
 ###
